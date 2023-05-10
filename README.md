@@ -1,4 +1,4 @@
-# exemplo-assincronismo
+# LP1_2023_1
 
 Para instalar o Yarn, execute:
 
